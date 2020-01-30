@@ -1,2 +1,5 @@
-# design-patterns-ruby
-Design Patterns in Ruby
+# Design Patterns in Ruby
+
+# References
+
+# Authors
